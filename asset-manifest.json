@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/leopoldo-1.github.io/Coffee-Shop/static/css/main.8ec218d1.css",
-    "main.js": "/leopoldo-1.github.io/Coffee-Shop/static/js/main.dd03b1c5.js",
-    "static/js/787.4539c236.chunk.js": "/leopoldo-1.github.io/Coffee-Shop/static/js/787.4539c236.chunk.js",
-    "index.html": "/leopoldo-1.github.io/Coffee-Shop/index.html",
-    "main.8ec218d1.css.map": "/leopoldo-1.github.io/Coffee-Shop/static/css/main.8ec218d1.css.map",
-    "main.dd03b1c5.js.map": "/leopoldo-1.github.io/Coffee-Shop/static/js/main.dd03b1c5.js.map",
-    "787.4539c236.chunk.js.map": "/leopoldo-1.github.io/Coffee-Shop/static/js/787.4539c236.chunk.js.map"
+    "main.css": "/Coffee-Shop/static/css/main.8ec218d1.css",
+    "main.js": "/Coffee-Shop/static/js/main.68c496ce.js",
+    "static/js/787.4539c236.chunk.js": "/Coffee-Shop/static/js/787.4539c236.chunk.js",
+    "index.html": "/Coffee-Shop/index.html",
+    "main.8ec218d1.css.map": "/Coffee-Shop/static/css/main.8ec218d1.css.map",
+    "main.68c496ce.js.map": "/Coffee-Shop/static/js/main.68c496ce.js.map",
+    "787.4539c236.chunk.js.map": "/Coffee-Shop/static/js/787.4539c236.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ec218d1.css",
-    "static/js/main.dd03b1c5.js"
+    "static/js/main.68c496ce.js"
   ]
 }
